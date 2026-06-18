@@ -1,0 +1,37 @@
+{
+  "selected_model": "logistic_regression",
+  "rows": 946,
+  "train_rows": 662,
+  "test_rows": 284,
+  "metrics": {
+    "accuracy": 0.912,
+    "f1": 0.9091,
+    "report": {
+      "0": {
+        "precision": 0.8874172185430463,
+        "recall": 0.9436619718309859,
+        "f1-score": 0.9146757679180887,
+        "support": 142.0
+      },
+      "1": {
+        "precision": 0.9398496240601504,
+        "recall": 0.8802816901408451,
+        "f1-score": 0.9090909090909091,
+        "support": 142.0
+      },
+      "accuracy": 0.9119718309859155,
+      "macro avg": {
+        "precision": 0.9136334213015984,
+        "recall": 0.9119718309859155,
+        "f1-score": 0.9118833385044989,
+        "support": 284.0
+      },
+      "weighted avg": {
+        "precision": 0.9136334213015983,
+        "recall": 0.9119718309859155,
+        "f1-score": 0.9118833385044989,
+        "support": 284.0
+      }
+    }
+  }
+}
